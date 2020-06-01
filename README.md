@@ -2,6 +2,7 @@
 
 This is a Data Management Plan for GRAD 521
   The DMP will include the following sections
+  
     1. Describe your data
     
 This research project attempts to define and quantify the determinants of high school dropout rates by public school district, in both Florida and Georgia. Two types of data will be generated during this project as follows: 
